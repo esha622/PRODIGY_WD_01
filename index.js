@@ -51,7 +51,7 @@ const removeStyle = () =>{
 
 addEventListener('resize', removeStyle)
 
-const themeButton = document.getElementById('theme-switch')
+const themeButton = document.getElementById('theme-toggle')
 const DarkMode = 'darkmode'
 const iconTheme = 'bx-sun'
 
